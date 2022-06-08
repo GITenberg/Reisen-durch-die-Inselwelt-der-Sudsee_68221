@@ -1,0 +1,26 @@
+_repo: Reisen-durch-die-Inselwelt-der-Sudsee_68221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prager, Max
+    gutenberg_agent_id: '54661'
+    url: http://www.gutenberg.org/2009/agents/54661
+description: ''
+gutenberg_issued: '2022-06-01'
+identifiers:
+  gutenberg: '68221'
+language: de
+pgterms:marc904: http://sammlungen.ub.uni-frankfurt.de/urn/urn:nbn:de:hebis:30:2-231251
+pgterms:marc905: 20180526112419prager
+pgterms:marc906: '1899'
+pgterms:marc907: de
+production_note: Peter Becker, Franz L Kuhlmann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Germany :Verlag von Carl Jansen,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Reisen durch die Inselwelt der Südsee
+url: http://www.gutenberg.org/ebooks/68221
