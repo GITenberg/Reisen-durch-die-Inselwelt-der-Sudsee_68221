@@ -1,11 +1,16 @@
 _repo: Reisen-durch-die-Inselwelt-der-Sudsee_68221
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68221-h/images/cover.jpg
 creator:
   author:
     agent_name: Prager, Max
     gutenberg_agent_id: '54661'
     url: http://www.gutenberg.org/2009/agents/54661
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68221#Reisen-durch-die-Inselwelt-der-Sudsee
 gutenberg_issued: '2022-06-01'
 identifiers:
   gutenberg: '68221'
